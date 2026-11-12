@@ -1,10 +1,10 @@
 # Sessione ricercatore — hospitality/restaurant tech, carriere dirette
 Agente: Claude Code desktop, Sonnet 5.5 · Inizio: 2026-11-12 13:22
-Stato: in corso
-Area e criteri: ruoli CS / onboarding / support in hotel-tech e restaurant-tech europei (Mews, Cloudbeds, SiteMinder, Apaleo, Too Good To Go, Tilby), letti dalle pagine carriera ufficiali; remoto Italia/Europa, italiano come lingua.
-Ricerche e fonti: —
-Trovato: —
-Rivisto: —
-Non trovato: —
-Da esplorare dopo: —
+Stato: chiusa
+Area e criteri: ruoli CS / onboarding / support in hotel-tech e restaurant-tech europei letti dalle pagine carriera ufficiali; remoto Italia/Europa, italiano come lingua.
+Ricerche e fonti: ricerche web su Mews, Cloudbeds/SiteMinder/Apaleo, Too Good To Go/Tilby/Tebi, Smartness; pagine Mews (mews.com/en/careers), pagina carriere Smartness (revolutpeople.com/smartness) lette con browser.
+Trovato: opportunita/smartness--customer-success-manager.md · opportunita/smartness--azienda.md (entrambe adatte poco: richiedono esperienza SaaS/vendita)
+Rivisto: opentable--onboarding-specialist-italian.md · perk--onboarding-specialist-italian-speaking.md · d-edge--customer-implementation-specialist.md · lodgify--customer-onboarding-specialist.md · too-good-to-go--azienda.md · thefork--customer-care-italiano.md · tebi--account-manager.md
+Non trovato: [F] Mews: l'unico ruolo con italiano letto è «Business Development Representative» in sede a Barcellona, 3 giorni in ufficio, «native Italian is essential», vendita outbound (mews.com/en/careers/jobs/5027193101), non adatto. Tre altri link Mews non hanno mostrato il contenuto. [?] SiteMinder «Customer Onboarding Specialist (Italian)»: il link su joinrise.co reindirizza all'elenco generico, annuncio forse chiuso, non verificato. Cloudbeds, Apaleo, Tilby: nessun annuncio trovato dalla ricerca. Too Good To Go: i ruoli CX con italiano trovati sono per Portogallo o Canada (non letti sulla fonte, i link greenhouse danno 404). Link Alfadocs (Workable) e Enginy: 404; Blank: errore certificato. Non letti.
+Da esplorare dopo: (1) Alfadocs, Blank, Enginy «Onboarding Specialist Italy» da cercare sui loro siti, non su aggregatori; (2) OpenTable «Onboarding Specialist - Italian speaking» (Londra, id 8936272002) e confronto con la scheda esistente; (3) Smartness «Sales Operations & Enablement Specialist» non letto.
 Costo: non letto: non disponibile
