@@ -3,9 +3,9 @@ Tipo: annuncio
 Fonte primaria: https://jobs.ashbyhq.com/openhomefoundation/9e09bff4-40aa-4f06-9fe4-b54317bcbec6
 Altre fonti: https://remotive.com/remote/jobs/all-others/community-associate-4962295
 Trovata: 2026-11-12, ChatGPT GPT-6
-Verificato attivo: non verificabile (pagina primaria indicizzata con «Apply for this Job» ma apertura diretta richiede JavaScript; verificare che le candidature siano ancora aperte)
-Contratto e durata: [F] full-time 40 ore settimanali, lavoro dipendente remoto in Europa; [?] compatibilità contrattuale da verificare con Matteo
-Stato: nuova
+Verificato attivo: 2026-11-12 pagina in 404 e l'elenco pubblico dell'Open Home Foundation su Ashby è vuoto (0 posizioni)
+Contratto e durata: [?] full-time 40 ore settimanali, lavoro dipendente remoto in Europa (riportati dal ricercatore senza citazione, non più verificabili); [?] compatibilità contrattuale da verificare con Matteo
+Stato: scaduta
 Decisione Matteo: —
 
 ## Perché interessa
@@ -17,4 +17,6 @@ Decisione Matteo: —
 - [?] Confermare apertura attuale, livello richiesto nella gestione community, disponibilità a trasferte.
 
 ## Analisi
-(solo l'analista)
+Analista: Claude Code desktop (Opus 5.5), 2026-11-12.
+Annuncio sparito: 404 sulla pagina e nessuna posizione aperta nell'elenco ufficiale.
+Raccomandazione: chiusa, annuncio rimosso.
