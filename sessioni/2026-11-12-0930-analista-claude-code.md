@@ -1,11 +1,11 @@
 # Sessione analista — secondo giro sulle schede `nuova`
 Agente: Claude Code desktop (Opus 5.5), worktree `ricerca-lavoro-wt/2026-11-12-0930-analista-claude-code` · Inizio: 2026-11-12 09:30
-Stato: in corso
-Area e criteri: tutte le schede `nuova` (7, arrivate dopo il quadro 877007f), poi `QUADRO.md`.
-Ricerche e fonti: —
-Trovato: —
-Rivisto: —
-Non trovato: —
-Da esplorare dopo: —
-Correzioni ai ricercatori: —
-Costo: —
+Stato: chiusa
+Area e criteri: tutte le schede `nuova`, poi `QUADRO.md`. All'avvio erano 7 (arrivate dopo il quadro 877007f); durante la sessione due ricercatori ne hanno pubblicate altre 7, analizzate anche quelle: 14 in tutto.
+Ricerche e fonti: 0 ricerche web, 17 pagine aperte nel browser integrato: cgmconsulting.it, zucchetti.intervieweb.it, BIP (Oracle CX, job 2471), apply.workable.com/cloudtalk, lever Jobgether (404), ashby SPACE44 (annuncio + elenco), lever Welo Global, rendair.ai, evateck.com/careers, fora.mozio.com (certificato non valido), mozio.com/careers + annuncio, retano.ai, hyfe.com, inveniasearch.com, qualivalue.com.
+Trovato: — (l'analista non crea schede)
+Rivisto: proposta → cloudtalk--product-education-manager-ai-enabled.md, cgm-consulting--tester-end-to-end-sistemi-it-junior.md, rendair--italian-speaking-customer-success-specialist.md, retano--software-implementation-consultant.md, qualivalue--junior-solution-builder.md, invenia-search--business-operations-associate-healthtech.md · monitorare → hyfe--business-operations-associate.md · scartata → zucchetti--software-tester-gestionale-studi-commercialisti.md (esperienza contabile indispensabile), bip-red--software-tester-intern.md (laurea STEM), welo-global--project-lion-senior-prompt-engineer-italy.md (4 anni da prompt engineer, laurea tecnica), evateck--customer-operations-specialist-italian-speaking.md (contact center BPO 24/7), mozio--customer-success-expert.md (assistenza a turni anche nel weekend, senza IA) · scaduta → jobgether--ai-support-operations-specialist.md (404), space44--ai-solutions-architect.md («Job not found», assente dall'elenco)
+Non trovato: compenso di Retano, Rendair, QualiValue, Invenia; paese di assunzione di CloudTalk e Hyfe; nome dell'azienda cliente di Invenia; i requisiti di Evateck riportati dal ricercatore non compaiono nel testo della pagina.
+Da esplorare dopo: (1) implementation e onboarding per software di retail e ristorazione con sede o clienti in Italia, sul modello Retano; (2) QA junior remoto che non chiede la laurea ([F] QualiValue ha anche «Junior QA Tester», «Remote»: non schedato perché c'è già la scheda dell'azienda); (3) formazione aziendale sull'IA ([F] QualiValue cerca un «AI Trainer» a Roma: formazione + IA, ma in sede).
+Correzioni ai ricercatori: doppioni 0 · scadute 2 · [F] corretti 2 · formato 14 — scadute: jobgether (404), space44 (non più nell'elenco ufficiale); [F] corretti: jobgether (quattro [F] presi da una pagina che il ricercatore non aveva potuto aprire, 403 → [?]), evateck (requisiti C1/B2/un anno dati come [F] ma assenti dal testo della pagina → [?]); formato: in tutte e 14 le schede gli [F] erano parafrasi senza le parole della fonte tra virgolette, riscritti con citazione; inoltre bip-red (fonte primaria spostata sulla pagina dell'annuncio, leggibile, al posto di un elenco filtrato a pagina 3), mozio (fonte primaria su un dominio con certificato non valido → mozio.com/careers/customer-success-expert), cloudtalk («non verificabile» → la pagina Workable si legge dopo il caricamento), rendair (citazioni in inglese non verificabili perché il sito reindirizza alla versione italiana → citazioni italiane). Sessioni: le 5 sessioni ChatGPT hanno «xxxx» nel nome del file al posto di HHMM e «Inizio: ora ignota»; l'ora del commit c'è (es. 09:28, 09:31): usarla. Non modificate (file di altri agenti).
+Costo: 0 ricerche su 15, 17 pagine su 20; costo in token non letto: non disponibile nella sessione.
