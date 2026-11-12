@@ -3,9 +3,9 @@ Tipo: annuncio
 Fonte primaria: https://www.mediabistro.com/jobs/3539479750-junior-social-media-specialist-italy
 Altre fonti: —
 Trovata: 2026-11-12, Claude Code desktop, Sonnet 5.5
-Verificato attivo: 2026-11-12 «Apply on Company Site» (pagina senza avviso di chiusura; data di pubblicazione non mostrata, «5 months ago» nella copia letta)
+Verificato attivo: 2026-11-12 «Apply on Company Site» su Mediabistro, pubblicato «5 months ago»
 Contratto e durata: «Full Time»; durata non indicata. [?] compatibilità contrattuale da verificare con Matteo
-Stato: nuova
+Stato: scartata — chiede 1-2 anni di social e influencer marketing e account o campagne già fatte da mostrare
 Decisione Matteo: —
 
 ## Perché interessa
@@ -15,7 +15,8 @@ Decisione Matteo: —
 - [?] Intestazione «New York, NY, USA» in conflitto con «Remote»: da chiarire. Retribuzione: «Competitive base + monthly performance bonus», nessuna cifra.
 
 ## Analisi
-(solo l'analista)
-Note del ricercatore, non giudizio: [F] chiede «1-2 years of experience» in social e influencer marketing in brand consumer/fashion/e-commerce, che nel §5 non risulta (lacuna probabile); full time, non part-time. Contenuti social con IA compare nel §3 solo come esplorazione. Prima di una candidatura servirebbe verificare orario e lingua di lavoro.
+Pesi del §6: remoto sì ([F] «Location: Work From Home/Remote, Flexible»); IA solo come bonus ([F] «Bonus: AI image and video content creation skills»); part-time no ([F] «Job type : Full Time»); persone poche (community online); scopo debole (e-commerce di occhiali di marca).
+Requisito → [F] «1-2 years experience in social media and influencer marketing at a consumer, fashion, lifestyle, or e-commerce brand»: lacuna. [F] «Link us to one or two social accounts or campaigns you've worked on»: lacuna (il flusso social con l'IA è nel §3 come esplorazione, non nel §5). [F] «Strong content creation skills: short-form video, static, copy, Canva, basic video editing»: lacuna. [F] «Fluent English»: inglese professionale non certificato.
+Potenziale · limiti: [F] «Long-term opportunity if the engagement works. Ongoing retainer not a one-off project»: [I] fa pensare a un incarico da collaboratore più che a un'assunzione; [?] compatibilità contrattuale da verificare con Matteo.
 Domande per Matteo: —
-Raccomandazione: —
+Raccomandazione: scartata per i requisiti di esperienza e portfolio social.
