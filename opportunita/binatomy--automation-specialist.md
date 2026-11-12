@@ -3,7 +3,7 @@ Tipo: annuncio
 Fonte primaria: https://binatomy.com/lavora-con-noi
 Altre fonti: —
 Trovata: 2026-11-12, ChatGPT GPT-6
-Verificato attivo: 2026-11-12 «Automation Specialist Full-time Remoto Progettazione e implementazione di automazioni per i clienti»
+Verificato attivo: 2026-11-12 (ore 12:35) «Customer Success Manager», «Part-time Remoto», «Supporto e onboarding clienti, gestione relazioni e raccolta feedback.»; ancora in elenco anche «Automation Specialist», «Full-time Remoto»
 Contratto e durata: [F] «Full-time Remoto»; [F] nella FAQ aziendale «contratti da dipendente ... oppure collaborazioni con partita IVA»; [?] forma applicabile alla singola posizione
 Stato: proposta
 Decisione Matteo: 2026-11-12 «Per Binatomy partirei dal part-time sui clienti» (Customer Success Manager part-time, non Automation Specialist)
@@ -33,5 +33,5 @@ Requisito → esito (Customer Success Manager part-time, stessa pagina)
 Potenziale: [I] piccola azienda italiana di automazione, tutta da remoto, con due porte: una tecnica da imparare (n8n/Make) e una part-time sui clienti già alla tua portata.
 Limiti: [F] contratti «da dipendente (CCNL Commercio o Metalmeccanico) oppure collaborazioni con partita IVA»: [?] compatibilità contrattuale da verificare con Matteo; [?] compenso non indicato; [I] azienda fondata nel 2025, molto giovane.
 Da imparare: n8n o Make (una prima automazione dimostrabile aiuterebbe la prova pratica).
-Domande per Matteo: ti interessa di più il ruolo tecnico (Automation Specialist, full-time) o quello sui clienti (Customer Success, part-time)?
-Raccomandazione: proporre: remoto, apertura dichiarata a chi impara, e c'è anche un Customer Success part-time nella stessa azienda.
+Domande per Matteo: risolta la scelta (Customer Success part-time, decisione del 12/11). Resta: confermi la bozza di candidatura in RESOCONTO.md? [?] compatibilità contrattuale da verificare con Matteo (la pagina non indica forma né compenso del part-time).
+Raccomandazione: proporre il Customer Success Manager part-time remoto (scelta di Matteo); la candidatura si manda per email dalla pagina, nessun annuncio dedicato.
