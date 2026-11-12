@@ -3,9 +3,9 @@ Tipo: annuncio
 Fonte primaria: https://globalcareers-ebscoind.icims.com/jobs/2022/training-specialist---southern-europe/job
 Altre fonti: https://jobgether.com/offer/6a0f2538cc7b7267699151b5-training-specialist---southern-europe
 Trovata: 2026-10-13, claude-code (Opus 5.5)
-Verificato attivo: 2026-10-13
+Verificato attivo: 2026-10-13 (ultima verifica positiva); 2026-11-12 non più attivo
 Contratto e durata: [F] full-time, remoto dall'Italia, contratto iniziale a tempo determinato di 1 anno (fonte primaria)
-Stato: in analisi — claude-code Sonnet 5.5 2026-11-12 09:30
+Stato: scaduta
 Possibile doppione di: —
 Decisione Matteo: —
 
@@ -16,3 +16,4 @@ Decisione Matteo: —
 
 ## Analisi
 (solo l'analista)
+[F] 2026-11-12: la fonte primaria risponde HTTP 410 Gone (https://globalcareers-ebscoind.icims.com/jobs/2022/training-specialist---southern-europe/job), annuncio rimosso. Nessuna analisi di merito: scheda chiusa come scaduta.
