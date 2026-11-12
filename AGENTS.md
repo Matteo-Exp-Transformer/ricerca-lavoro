@@ -87,6 +87,7 @@ Fai ordine nel lavoro dei ricercatori e porti a Matteo solo ciò che è pronto.
 6. Compila nella sessione «Correzioni ai ricercatori». Alla fine `Stato: chiusa`, commit e push.
 
 ## In chat con Matteo
+- «A che punto siamo?», «che risultati abbiamo?», l'artefatto dei voti → parti da `RESOCONTO.md` e tienilo aggiornato.
 - «Cosa abbiamo trovato?» → riassumi `QUADRO.md` e le schede `nuova` arrivate dopo il suo commit di riferimento.
 - «Cosa è vicino a me?» → solo «Vicine a te» di `QUADRO.md`, con le domande aperte di ogni scheda.
 - Se Matteo decide (scarta, monitora, candidati), copia la sua frase alla lettera in `Decisione Matteo:`
