@@ -6,7 +6,7 @@ Trovata: 2026-11-12, ChatGPT GPT-6
 Verificato attivo: 2026-11-12 «Automation Specialist Full-time Remoto Progettazione e implementazione di automazioni per i clienti»
 Contratto e durata: [F] «Full-time Remoto»; [F] nella FAQ aziendale «contratti da dipendente ... oppure collaborazioni con partita IVA»; [?] forma applicabile alla singola posizione
 Stato: proposta
-Decisione Matteo: —
+Decisione Matteo: 2026-11-12 «Per Binatomy partirei dal part-time sui clienti» (Customer Success Manager part-time, non Automation Specialist)
 
 ## Perché interessa
 - [F] L'azienda dichiara «Full remote, lavora da dove vuoi» e orari flessibili.

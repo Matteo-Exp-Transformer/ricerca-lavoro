@@ -5,8 +5,8 @@ Altre fonti: —
 Trovata: 2026-11-12, ChatGPT GPT-6
 Verificato attivo: 2026-11-12 «Open positions», «02 Junior Solution Builder», «Apply for this position» (fonte primaria)
 Contratto e durata: [F] «Contract type: VAT contractor» (fonte primaria); durata, ore e compenso [?]; [?] compatibilità contrattuale da verificare con Matteo
-Stato: proposta
-Decisione Matteo: —
+Stato: monitorare
+Decisione Matteo: 2026-11-12 «Sì, diciamo che la partita IVA per ora non consideriamola, cerchiamo di fare senza» (il contratto richiesto è partita IVA, freelance o B2B)
 
 ## Perché interessa
 - [F] Remoto, junior, su progetti software: «The person will work remotely, contributing to development, prototyping, refactoring, automation, and software integration activities, with attention to solution structure, application flows, quality, and final result verification» (fonte primaria).

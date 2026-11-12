@@ -5,8 +5,8 @@ Altre fonti: https://retano.ai/career/
 Trovata: 2026-11-12, ChatGPT GPT-6
 Verificato attivo: 2026-11-12 «APPLY FOR JOB», «START ASAP» (fonte primaria)
 Contratto e durata: [F] «Long-term cooperation (12+ months)»; «Comparable to a full-time engagement, with flexibility in scheduling»; «Competitive compensation under a B2B cooperation model»; «Terms are discussed individually» (fonte primaria); [?] compatibilità contrattuale da verificare con Matteo
-Stato: proposta
-Decisione Matteo: —
+Stato: monitorare
+Decisione Matteo: 2026-11-12 «Sì, diciamo che la partita IVA per ora non consideriamola, cerchiamo di fare senza» (il contratto richiesto è partita IVA, freelance o B2B)
 
 ## Perché interessa
 - [F] Remoto dall'Italia: «Remote (Italy-based)»; «Remote work with occasional travel within the European Union for client meetings and industry events» (fonte primaria).

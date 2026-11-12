@@ -5,8 +5,8 @@ Altre fonti: https://www.weareconflux.com/it/lavora-con-noi
 Trovata: 2026-11-12, ChatGPT GPT-6
 Verificato attivo: 2026-11-12 «Junior/Mid/Senior»; «Freelance»; «Roma/Milano/Remoto» (pagina carriera e annuncio)
 Contratto e durata: [F] «Freelance»; [?] possibile altra formula: annuncio in inglese «open to different contractual solutions», da chiarire
-Stato: proposta
-Decisione Matteo: —
+Stato: monitorare
+Decisione Matteo: 2026-11-12 «Sì, diciamo che la partita IVA per ora non consideriamola, cerchiamo di fare senza» (il contratto richiesto è partita IVA, freelance o B2B)
 
 ## Perché interessa
 - [F] La pagina presenta «Junior/Mid/Senior» e «Roma/Milano/Remoto». Fonte primaria sopra.
