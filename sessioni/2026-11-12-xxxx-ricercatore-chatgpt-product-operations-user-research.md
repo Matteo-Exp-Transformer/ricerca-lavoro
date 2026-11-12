@@ -1,10 +1,10 @@
 # Sessione ricercatore — Product Operations e User Research
 Agente: ChatGPT (GPT-6) · Inizio: ora ignota
-Stato: in corso
-Area e criteri: Product Operations, UX Research Operations, Product Specialist e ruoli junior che trasformano feedback clienti in requisiti, test e miglioramenti dei prodotti digitali, privilegiando FoodTech/TravelTech e remoto Italia/Europa. Esclusi dal perimetro primario Onboarding, Implementation e Customer Enablement SaaS, assegnati all'altro agente.
-Ricerche e fonti: in corso
-Trovato: in corso
-Rivisto: in corso
-Non trovato: in corso
-Da esplorare dopo: in corso
-Costo: in corso
+Stato: chiusa
+Area e criteri: Product Operations, UX Research Operations e Product Specialist, soprattutto ruoli a contatto con feedback clienti, requisiti e agenti AI. Remoto Italia/Europa preferito; escluso Onboarding/Implementation/Customer Enablement SaaS come perimetro principale perché assegnato a un altro agente. Scelta dopo lettura delle sessioni precedenti e delle aziende già schedate.
+Ricerche e fonti: 20 query web (max 25), 6 richieste apertura pagine (max 15; alcune non leggibili). Ricerche mirate su product operations remote EU, junior UX researcher, product specialist remote EU, fonti aziendali Conflux, Spacelift, Siena, ZEISS, Typeform e Alpha Life Sciences. Primarie: https://www.weareconflux.com/it/lavora-con-noi/ux-researcher ; https://www.weareconflux.com/it/lavora-con-noi ; https://jobs.ashbyhq.com/siena/1216b030-76e0-443e-a7a7-7e826d3b3960/ ; https://careers.spacelift.io/jobs/7779309-product-operations-manager-remote-european-union ; https://careers.spacelift.io/departments/product .
+Trovato: opportunita/conflux--ux-researcher.md ; opportunita/siena-ai--product-specialist.md ; opportunita/spacelift--product-operations-manager.md
+Rivisto: — (nessuna di queste aziende era già in opportunita/). Altre aziende già presenti non duplicate.
+Non trovato: fonte primaria ZEISS Junior User Experience Researcher (risultati solo di aggregatori e LinkedIn); candidatura in remoto dall'Italia per Typeform AI Product Operations Lead (annuncio specifica altri paesi); posizioni Product Ops dichiaratamente junior con basso requisito SQL e contratto italiano sicuro. Portale Ashby Siena restituisce JS nell'apertura diretta, ma il testo compare nella ricerca indicizzata: da verificare via browser da analista.
+Da esplorare dopo: (1) confermare possibilità di assunzione dall'Italia e requisiti di Siena; (2) trovare posizione ZEISS sul sito ufficiale e distinguere ibrido da remoto; (3) trovare Product Specialist junior in startup AI con feedback-to-product e disponibilità Italia senza obbligo di supporto SaaS pregresso.
+Costo: 20 query web / limite 25; 6 aperture / limite 15; costo in token o valuta non leggibile.
