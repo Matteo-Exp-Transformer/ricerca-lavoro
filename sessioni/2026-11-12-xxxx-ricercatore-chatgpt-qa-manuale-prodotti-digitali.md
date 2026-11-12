@@ -1,11 +1,12 @@
 # Sessione ricercatore — QA manuale e collaudo di prodotti digitali
 
 Agente: ChatGPT (GPT-6) · Inizio: ora ignota
-Stato: in corso
-Area e criteri: QA manuale, test funzionali ed esplorativi di app o flussi digitali, junior/accessibile e in remoto; settore software e piattaforme digitali, inclusi ruoli con interazione con utenti e IA. Scelta perché non ancora esplorata direttamente nelle sessioni recenti. Il §6 è punto di partenza, non filtro rigido.
-Ricerche e fonti: da compilare.
-Trovato: da compilare.
-Rivisto: da compilare.
-Non trovato: da compilare.
-Da esplorare dopo: da compilare.
-Costo: non letto: non disponibile.
+Stato: chiusa
+Area e criteri: QA manuale, test funzionali ed esplorativi di app o flussi digitali, ruoli junior e remoti con possibili aperture all'ibrido; software e piattaforme digitali, inclusi ruoli con uso dell'IA. Scelta perché non ancora esplorata nelle sessioni recenti. Il §6 è un punto di partenza, non un filtro rigido.
+Ricerche e fonti: 25 query web (soglia di prompt rispettata) tra ricerca generale «junior QA tester remote Italy», ricerca di fonti primarie per CGM Consulting, BIP Red, Zucchetti, Itconsulting, Project S, Aubay, Specialisterne, Gruppo Informet e altri. 4 pagine primarie aperte più un click verso il job portal ufficiale BIP (5 aperture/accessi). Fonti lette: https://cgmconsulting.it/offerta-lavoro/tester-end-to-end-sistemi-it-junior-full-remote/ ; https://cgmconsulting.it/offerta-lavoro/tester-accessibilita-pdf-wcag-torino-full-remote/ ; https://www.bip-group.com/job-openings?location=%7B%22id%22%3A86%2C%22label%22%3A%22Milano%22%7D&page=3 (annuncio BIP Red «Software Tester - Intern», job ID 2471) ; https://zucchetti.intervieweb.it/jobs/software-tester-2069/it/ ; https://fa-etjb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2471 (pagina candidatura, contenuto non leggibile).
+Trovato: opportunita/cgm-consulting--tester-end-to-end-sistemi-it-junior.md ; opportunita/bip-red--software-tester-intern.md ; opportunita/zucchetti--software-tester-gestionale-studi-commercialisti.md
+Rivisto: — (nessuna azienda già schedata nella cartella opportunita/). Seconda posizione CGM («Tester Accessibilità – PDF & WCAG», fonte primaria sopra) non schedata perché esiste già una scheda della stessa azienda, come impone AGENTS.md.
+Non trovato: conferma su fonte primaria per le piste «Project S P2026-156 Junior Software Tester», «Itconsulting Junior Tester» e «Aubay Tester Junior» (aggregatori consultati ma non verificati presso azienda); non schedate. Remote effettivo BIP Red, durata dell'internship e possibilità di accesso senza laurea STEM non confermati. L'annuncio Zucchetti richiede esperienza contabile e presenza ibrida, da valutare dall'analista. CGM telco richiede basi nel dominio rete e un primo mese parzialmente in presenza.
+Da esplorare dopo: (1) annunci QA manuali direttamente sulle pagine carriera di software company con remoto Italia e senza obbligo STEM; (2) verificare il codice P2026-156 di Project S nella fonte primaria, e aperture junior del portale Itconsulting; (3) QA orientato a funzionalità, usabilità e bug report per prodotti SaaS, con formazione e settore non telco.
+Letti: AGENTS.md — servito; CHI_SONO_Matteo.md §§5–7 — servito; prompt/ricercatore.md — servito; tutte le sessioni esistenti (elenco e contenuti) — servito; opportunita/ (elenco, verifica aziende duplicate) — servito.
+Costo: 25 query web su 25; 5 pagine/accessi su 15; costo monetario/token non letto: indisponibile.
