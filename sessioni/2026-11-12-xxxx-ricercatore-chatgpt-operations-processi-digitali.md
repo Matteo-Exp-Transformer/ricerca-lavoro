@@ -1,10 +1,11 @@
 # Sessione ricercatore — Operations e processi digitali
 Agente: ChatGPT (GPT-6) · Inizio: ora ignota
-Stato: in corso
-Area e criteri: operations e miglioramento dei processi nelle aziende digitali, operations associate/coordinator, process improvement e ruoli junior con orientamento remoto Italia/Europa. Area poco esplorata rispetto alle recenti sessioni AI operations, Customer Education, QA e Customer Support. §6 come orientamento, non filtro.
-Ricerche e fonti: in corso
-Trovato: —
-Rivisto: —
-Non trovato: —
-Da esplorare dopo: —
-Costo: non letto: indisponibile
+Stato: chiusa
+Area e criteri: operations e miglioramento dei processi nelle aziende digitali, operations associate/coordinator, implementation e ruoli junior con orientamento remoto Italia/Europa. Area poco esplorata rispetto alle sessioni precedenti AI operations, Customer Education, QA e Customer Support. §6 come orientamento, non filtro.
+Ricerche e fonti: 5 query web con ricerca rapida su «business operations associate remote Italy», «operations coordinator», «process improvement», «operations specialist SaaS», «operations associate startup»; 5 aperture dirette delle fonti candidate e 1 navigazione alla pagina dettaglio di Retano (6 accessi pagina su massimo 15). Fonti primarie: https://retano.ai/career/software-implementation-consultant/ ; https://hyfe.com/careers/business-operations-associate ; https://inveniasearch.com/live-roles/business-operations-associate-healthtech-europe-remote-italy (recruiter incaricato, azienda non identificata) ; https://www.qualivalue.com/career.html?lang=en . Ulteriori piste lette nei risultati: https://amtivo.com/careers/junior-technical-reviewer-iso-certification/ (apertura 410), https://cgmconsulting.it/offerta-lavoro/analista-funzionale-junior-middle-full-remote/ (stessa azienda già schedata), https://jobs.lever.co/jobgether/?location=Italy (stessa azienda già schedata).
+Trovato: opportunita/retano--software-implementation-consultant.md ; opportunita/hyfe--business-operations-associate.md ; opportunita/invenia-search--business-operations-associate-healthtech.md ; opportunita/qualivalue--junior-solution-builder.md
+Rivisto: opportunita/cgm-consulting--tester-end-to-end-sistemi-it-junior.md (stessa azienda con annuncio Analista Funzionale Junior/Middle, non duplicata); opportunita/jobgether--ai-support-operations-specialist.md (stessa azienda con Business Operations Associate su Lever, non duplicata).
+Non trovato: annuncio operations junior remoto e part-time con contratto esplicitamente dipendente e senza requisiti di laurea o esperienza specialistica. Retano e QualiValue prevedono modelli B2B/VAT contractor; Hyfe richiede almeno due anni di esperienza specifica e inglese fluente; Invenia/Search cliente anonimo richiede laurea e non dichiara compenso e contratto. Fonte Amtivo restituisce 410 nell'apertura diretta, quindi non schedata.
+Da esplorare dopo: (1) operations junior / process coordinator su software italiano con contratto dipendente e part-time; (2) implementation e operations nel settore retail con assunzione anziché B2B; (3) ruoli junior di gestione requisiti e processi in aziende AI, verificando titolo di studio e remoto Italia.
+Letti: AGENTS.md; CHI_SONO_Matteo.md §§5–7; prompt/ricercatore.md; elenco sessioni e opportunita; 7 contenuti sessione per identificare sovrapposizioni.
+Costo: 5 query web su massimo 25, 6 aperture/accessi pagina su massimo 15; costo monetario/token non letto: indisponibile.
