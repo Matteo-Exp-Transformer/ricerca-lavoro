@@ -3,9 +3,9 @@ Tipo: annuncio
 Fonte primaria: https://www.orienta.net/it/orienta-job/offerta-di-lavoro/junior-pre-sales-proposal-engineer/164945
 Altre fonti: —
 Trovata: 2026-11-12, ChatGPT GPT-6
-Verificato attivo: 2026-11-12 «Candidati ora» (offerta Orienta pubblicata 28/10/2026)
+Verificato attivo: 2026-11-12 «Candidati ora» sulla pagina dell'annuncio (leggibile)
 Contratto e durata: [?] non verificati
-Stato: nuova
+Stato: scartata — richiede conoscenze di reti e telecomunicazioni, sede Roma
 Decisione Matteo: —
 
 ## Perché interessa
@@ -15,4 +15,12 @@ Decisione Matteo: —
 - [?] Presenza/remoto, requisiti formativi, contratto e durata da approfondire; compatibilità contrattuale da verificare con Matteo.
 
 ## Analisi
-(solo l'analista)
+Analista: Claude Code desktop (Opus 5.5), 2026-11-12.
+Pesi del §6: regge in parte la raccolta dei requisiti. Mancano remoto (sede Roma), IA, requisiti raggiungibili.
+
+Requisito → esito
+- [F] «Laurea o diploma tecnico ad indirizzo Gestionale, Informatica, Telecomunicazioni, Elettronica o affini» → lacuna: il tuo è un diploma turistico.
+- [F] «Conoscenze delle reti (LAN, WLAN, ecc.), delle telecomunicazioni e delle infrastrutture tecnologiche» → lacuna.
+
+Domande per Matteo: —
+Raccomandazione: scartare: profilo tecnico di reti e telecomunicazioni in sede a Roma.

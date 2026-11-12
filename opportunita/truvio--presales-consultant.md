@@ -3,9 +3,9 @@ Tipo: annuncio
 Fonte primaria: https://truvio.teamtailor.com/jobs/7468191-presales-consultant
 Altre fonti: —
 Trovata: 2026-11-12, ChatGPT GPT-6
-Verificato attivo: 2026-11-12 «Apply now!» (pagina careers ufficiale accessibile, form visibile)
+Verificato attivo: 2026-11-12 «This position is no longer active» (la pagina risponde 410)
 Contratto e durata: [F] «Full-time, permanent»; [?] compatibilità Italia, elenco sedi non comprende Italia
-Stato: nuova
+Stato: scaduta
 Decisione Matteo: —
 
 ## Perché interessa
@@ -16,4 +16,6 @@ Decisione Matteo: —
 - [?] Verificare eleggibilità di chi risiede in Italia e reale politica remoto; compatibilità contrattuale da verificare con Matteo.
 
 ## Analisi
-(solo l'analista)
+Analista: Claude Code desktop (Opus 5.5), 2026-11-12.
+Annuncio chiuso: la pagina dice «Either the position was filled, or the ad has expired». Chiedeva comunque esperienza su Microsoft Dynamics 365 Finance & Operations, non nel §5.
+Raccomandazione: chiusa, annuncio rimosso.
