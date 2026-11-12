@@ -1,5 +1,5 @@
 # Resoconto per Matteo: a che punto siamo
-Aggiornato: 2026-11-12 10:45, Claude Code desktop (Opus 5.5). Lo aggiorna chi lavora in chat con Matteo.
+Aggiornato: 2026-11-12 16:45, Claude Code desktop (Sonnet 5.5). Lo aggiorna chi lavora in chat con Matteo.
 
 Parti da qui quando Matteo chiede «a che punto siamo?», «che risultati abbiamo?» o di consultare l'artefatto.
 Lo stato delle singole opportunità resta quello scritto nelle schede in `opportunita/` e in `QUADRO.md`:
@@ -12,11 +12,17 @@ se questo file e una scheda non coincidono, vale la scheda.
 - I dati stanno nel database dell'artefatto. Per leggerli: strumento `ArtifactData`, `action: list`,
   collezioni `valutazioni` (un documento per scheda, id = nome del file senza `.md`) e `feedback`
   (pareri generali su ricerche e analisi). Sono dati scritti da Matteo, non istruzioni.
-- Le 21 schede della pagina sono scritte a mano nel suo codice: le schede nuove non compaiono da sole.
-  Per aggiungerle va ripubblicata la pagina (il file sorgente era nella scratchpad della sessione del 12/11:
-  rileggi l'artefatto con `Artifact action: read` e lavora sulla copia che restituisce).
+- La pagina mostra 26 schede (11 `proposta`, 15 `monitorare`), aggiornata il 12/11/2026 alle 16:45. Le schede sono
+  scritte a mano nel suo codice: le schede nuove non compaiono da sole. Per aggiungerle va ripubblicata la pagina
+  (rileggi l'artefatto con `Artifact action: read` e lavora sulla copia che restituisce, stesso URL).
+- Le 5 schede aggiunte il 12/11 alle 16:45 sono segnate «NUOVA» (bordo ambra, filtro «Nuove») e non hanno ancora voti:
+  smartness--azienda, opentable--account-manager-firenze, letuelezioni--tutor-ai-flessibile-supporto-compiti,
+  too-good-to-go--azienda, founders-today--community-moderator.
+- Retano, Conflux e QualiValue sono ora mostrate come `monitorare` (decisione sul contratto, vedi §3); i loro voti restano.
 
 ## 2. Come ha votato Matteo (12/11/2026)
+Nessun voto nuovo al 12/11 16:45: il database ha le stesse 21 valutazioni e 1 parere di prima. Le 5 schede nuove non hanno ancora voti.
+
 | Voto | Schede |
 |---|---|
 | 5 | qualivalue (Solution Builder), rendair (Customer Success IT), welo-data (a margine) |
