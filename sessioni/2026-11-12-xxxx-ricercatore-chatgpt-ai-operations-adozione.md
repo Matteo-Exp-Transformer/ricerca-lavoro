@@ -1,10 +1,10 @@
 # Sessione ricercatore — AI Operations e adozione IA nelle aziende
 Agente: ChatGPT (GPT-6) · Inizio: ora ignota
-Stato: in corso
-Area e criteri: AI operations, supporto all'adozione IA, workflow e assistenza implementazione presso aziende; priorità remoto Italia/Europa e ruoli accessibili senza esperienza di sviluppo software puro. Area distinta da QA manuale, valutazione linguistica IA e Customer Education SaaS.
-Ricerche e fonti: in corso
-Trovato: —
-Rivisto: —
-Non trovato: —
-Da esplorare dopo: —
-Costo: non letto: costo monetario/token non disponibile
+Stato: chiusa
+Area e criteri: AI operations, supporto all'adozione IA, workflow e implementazione presso aziende; priorità remoto Italia/Europa e ruoli anche non puramente tecnici. Area distinta da QA manuale, valutazione linguistica IA e Customer Education SaaS. §6 usato come orientamento, non filtro vincolante.
+Ricerche e fonti: 14 query web (budget 25), 2 aperture di pagina con `open` (budget 15; una apertura 403). Ricerche su Lever, Ashby, Workable e portali careers relativi a AI operations, AI adoption, implementation, prompt engineering remoto Italia/Europa. Fonti principali: https://jobs.lever.co/jobgether/19001368-39b1-4c1f-865f-b9fae1bee3d6 ; https://jobs.ashbyhq.com/space44/f1bd4b1f-93de-492b-871e-77b134705bb5 ; https://jobs.lever.co/weloglobal/0b0c69d8-223f-4b6c-ace7-c8d69b668780 . Ulteriori piste: https://jobs.ashbyhq.com/neurons-lab.com/aee655e0-5f1c-4020-83f3-0476dfac57c9 (Italia assente dalle località); https://jobs.ashbyhq.com/oviva/aed99f4e-6b73-4201-a95c-26e3ae7fa334/ (working student Berlino); https://trabajo.virtrify.com/en/jobs/1865 (Job Paused).
+Trovato: opportunita/jobgether--ai-support-operations-specialist.md ; opportunita/space44--ai-solutions-architect.md ; opportunita/welo-global--project-lion-senior-prompt-engineer-italy.md
+Rivisto: nessuna scheda di queste aziende presente nella cartella opportunita/ all'avvio. Nessun doppione creato.
+Non trovato: annuncio accessibile per AI adoption junior specificamente aperto a residenti in Italia senza requisiti tecnici avanzati. Il ruolo Jobgether richiede esperienza dimostrabile in Intercom Fin, non presente nel profilo; SPACE44 richiede 7+ anni in ambiti specifici; Welo Global 4+ anni come prompt engineer e titolo tecnico. La pagina Jobgether è indicizzata come annuncio Lever ma l'apertura diretta via web dà 403; rimane da riconfermare. Compensi dei tre ruoli non pubblicati nelle fonti consultate.
+Da esplorare dopo: (1) aziende di AI customer support con ruoli di support operations o chatbot training senza obbligo di esperienza Intercom Fin; (2) consulenze di adozione IA per PMI con onboarding formativo e responsabilità junior; (3) ruoli di process analyst / implementation assistant con agenti AI presso società europee.
+Costo: 14 query web su 25; 2 pagine aperte su 15; costo monetario/token non letto: indisponibile.
