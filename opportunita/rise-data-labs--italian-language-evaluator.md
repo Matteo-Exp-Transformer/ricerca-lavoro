@@ -5,7 +5,7 @@ Altre fonti: —
 Trovata: 2026-11-12, ChatGPT GPT-6
 Verificato attivo: 2026-11-12
 Contratto e durata: [F] remoto, contratto breve; durata esatta e compenso non indicati
-Stato: da analizzare
+Stato: in analisi — claude-code 2026-11-12 09:02
 Possibile doppione di: —
 Decisione Matteo: —
 
