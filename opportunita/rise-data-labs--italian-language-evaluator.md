@@ -3,25 +3,32 @@ Tipo: annuncio
 Fonte primaria: https://experts.risedatalabs.com/jobs/italian-language-evaluator-37fgx
 Altre fonti: —
 Trovata: 2026-11-12, ChatGPT GPT-6
-Verificato attivo: 2026-11-12 (riaperta; pulsante candidatura presente, stato «open» non dichiarato)
-Contratto e durata: [F] remoto, contratto breve; durata esatta e compenso non indicati
-Stato: nuova
+Verificato attivo: 2026-11-12 «Start application» (pagina aperta; la parola «open» non compare)
+Contratto e durata: [F] «WORK TYPE Contract», «LOCATION Remote», «Availability: short-term engagement starting ASAP»; compenso e ore non indicati [?]
+Stato: monitorare
 Decisione Matteo: —
 
 ## Perché interessa
-[F] La posizione ufficiale risulta «open» e offre candidatura; riguarda revisione AI in italiano, deriva del contenuto, allucinazioni e feedback strutturato; accetta candidati globali (fonte primaria).
-[I] Pesi §6: remoto; progetto a termine; AI; autonomia; requisiti linguistici/attenzione al dettaglio plausibilmente raggiungibili (§5) = 5/8.
-[I] Vicinanza pratica al lavoro con agenti, senza attribuire a Matteo competenze misurate di eval.
-[?] Annuncio pubblicato 08/04/2026: pur indicato open a novembre, confermare se il progetto sta ancora assegnando incarichi e la formula fiscale.
+- [F] «contract, remote Italian-speaking annotators to evaluate AI-generated content with a sharp eye for detail and cultural nuance» (fonte primaria).
+- [F] Compiti: «Detect hallucinations», «Provide structured feedback that improves model performance over time» (fonte primaria).
+- [F] «Global. All countries welcome.» · «POSTED Apr 8, 2026» (fonte primaria).
+- [I] Pesi §6: remoto, incarico a termine, IA, requisiti raggiungibili.
 
 ## Analisi
-Requisito → esito
-- Italiano madrelingua/fluente, sensibilità a tono e correttezza → soddisfatto [F] (§5: italiano madrelingua; fonte https://experts.risedatalabs.com/jobs/italian-language-evaluator-37fgx)
-- Attenzione al dettaglio e coerenza nell'applicare linee guida → soddisfatto [I] (esperienza di sala/ordini e «caccia alle falle» nel §5 Prodotto)
-- Individuare allucinazioni e dare feedback strutturato → parzialmente soddisfatto [I]: prompt engineering e guardrail sì (§5); NON dichiarare «esperto di evals», nessuna eval misurata
-- Disponibilità immediata a incarico breve → sconosciuto [?] (dipende dall'indennità in corso e dal tipo di contratto: da chiedere a Matteo)
-- Nice to have marketing / data annotation → lacuna [F]
-- Compenso, ore, durata, formula fiscale → sconosciuto [?]; il §7 indica no a partita IVA: se è contractor indipendente potrebbe essere incompatibile [?]
+Analista: Claude Code desktop (Opus 5.5), 2026-11-12. Riscritta da capo: sostituisce l'analisi del 12/11 (Sonnet 5.5).
+Correzione: la versione precedente diceva che la posizione «risulta open». [F] La pagina non lo dice: mostra solo «Start application».
 
-Potenziale: [I] ingresso concreto nella valutazione di risposte IA in italiano (famiglia di ruoli del §6), remoto, a termine, utile per costruire la prima esperienza di eval reale. Limiti: [?] compenso e ore ignoti; [F] pubblicato l'8/04/2026 e la pagina mostra solo il pulsante «Start application», senza dichiarare «open»; per candidarsi serve creare un account (lo farà Matteo, non l'agente). Da imparare: rubriche di annotazione, linee guida del cliente.
-Raccomandazione: da proporre a Matteo solo dopo che chiarisca la questione partita IVA/indennità; verificare compenso prima di investire tempo.
+Pesi del §6: regge remoto, IA, incarico a termine, requisiti raggiungibili. Mancano persone/operatività e team; part-time [?].
+
+Requisito → esito
+- «Native or fluent Italian speaker» → soddisfatto (§5 Lingue).
+- «Ability to distinguish subtle differences in tone, quality, and correctness» → soddisfatto: madrelingua (§5 Lingue).
+- «consistency in applying guidelines» → soddisfatto in parte: caccia alle falle (§5 Prodotto), guardrail (§5 IA).
+- Individuare allucinazioni e dare feedback strutturato → soddisfatto in parte: prompt engineering applicato (§5 IA); non «esperto di evals».
+- «Bonus: experience in marketing and data annotations» → lacuna.
+
+Potenziale: [I] ingresso nella valutazione IA in italiano, con poco sforzo per tentare.
+Limiti: [F] pubblicato l'8/04/2026 per un incarico «starting ASAP»: [I] dopo sette mesi è probabile che il bisogno sia coperto o che l'annuncio serva solo a raccogliere candidati; [?] compenso, ore, durata; [F] «Create an account or sign in to start your application»: l'account lo crea Matteo, non l'agente; [?] compatibilità contrattuale da verificare con Matteo.
+Da imparare: rubriche di annotazione, linee guida del cliente.
+Domande per Matteo: —. Da chiarire prima: compenso e se il progetto assegna ancora incarichi.
+Raccomandazione: monitorare; se a dicembre l'annuncio è ancora su senza compenso indicato, scartare.

@@ -1,17 +1,19 @@
 # RWS TrainAI — Speech AI Evaluation Specialist - Italian (Italy)
 Tipo: annuncio
 Fonte primaria: https://jobs.lever.co/rws/ade36625-2d22-4842-a86c-c94748a70c3e
-Altre fonti: —
+Altre fonti: https://jobs.lever.co/rws (elenco)
 Trovata: 2026-11-12, ChatGPT GPT-6
-Verificato attivo: 2026-11-12
-Contratto e durata: [F] freelance, part-time 10+ ore/settimana, durata non definita; 11 USD/ora dichiarati
-Stato: nuova
+Verificato attivo: non verificabile (il 2026-11-12 la pagina risponde 404)
+Contratto e durata: [?] secondo il ricercatore: freelance, part-time 10+ ore/settimana, 11 USD/ora (fonte non più leggibile, nessuna citazione)
+Stato: scaduta
 Decisione Matteo: —
 
 ## Perché interessa
-[F] Conversazioni vocali con modelli AI, valutazioni di pertinenza/accuratezza/chiarezza e feedback secondo istruzioni; lavoro dall'Italia, remoto e flessibile (fonte primaria).
-[I] Pesi §6: remoto; part-time flessibile; IA; autonomia; requisiti plausibilmente raggiungibili (§5: italiano madrelingua, inglese professionale, uso IA) = 5/8.
-[?] L'annuncio richiede inglese B2–C2: il livello di Matteo non è certificato, va verificato con test; chiarire disponibilità effettiva di task e trattamento fiscale/indennità prima di procedere.
+[?] Secondo il ricercatore: conversazioni vocali con modelli IA, valutazioni di pertinenza, accuratezza e chiarezza, lavoro dall'Italia (fonte non più leggibile, nessuna citazione).
+[I] Pesi §6: remoto; part-time flessibile; IA; autonomia.
+[?] Richiesto inglese B2–C2 secondo il ricercatore; compatibilità contrattuale da verificare con Matteo.
 
 ## Analisi
-(solo l'analista)
+Analista: Claude Code desktop (Opus 5.5), 2026-11-12.
+Annuncio sparito: [F] la pagina risponde 404 «The job posting you're looking for might have closed, or it has been removed» e il ruolo non compare più nell'elenco https://jobs.lever.co/rws.
+Raccomandazione: scaduta. Il ruolo simile ancora attivo è rws--ai-data-specialist-italian.md.
