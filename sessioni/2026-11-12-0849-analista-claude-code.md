@@ -1,11 +1,11 @@
 # Sessione analista — primo giro su tutte le schede `nuova`
 Agente: Claude Code desktop (Opus 5.5), worktree `ricerca-lavoro-wt/2026-11-12-0849-analista-claude-code` · Inizio: 2026-11-12 08:49
-Stato: in corso
-Area e criteri: tutte le schede `nuova` (9), poi `QUADRO.md`. Primo giro dopo il collaudo del 12/11.
-Ricerche e fonti: —
-Trovato: —
-Rivisto: —
-Non trovato: —
-Da esplorare dopo: —
-Correzioni ai ricercatori: —
-Costo: —
+Stato: chiusa
+Area e criteri: tutte le schede `nuova`, poi `QUADRO.md`. Primo giro dopo il collaudo del 12/11. Le schede `nuova` erano 10, non 9 come diceva il prompt di avvio (il messaggio del commit 877007f dice «9» per errore).
+Ricerche e fonti: 0 ricerche web, 12 pagine aperte nel browser integrato: menutech (annuncio), risedatalabs, lever RWS ×2 + elenco RWS, lever TSMG, alignerr, ashby Satispay (letta con JavaScript), GFT, tebi.com/careers + ashby Tebi, Himalayas (403, verifica anti-bot).
+Trovato: — (l'analista non crea schede)
+Rivisto: proposta → menutech--full-cycle-account-manager.md, tsmg--ai-tester-italian.md, alignerr--google-workspace-ai-evaluator-italian.md · monitorare → rise-data-labs--italian-language-evaluator.md, rws--ai-data-specialist-italian.md, direzione--formazione-interna-enablement.md · scartata → gft--hr-learning-development-stage.md, satispay--functional-training-coordinator.md · scaduta → rws--speech-ai-evaluation-specialist-italian.md, tebi--account-manager.md
+Non trovato: compenso di TSMG e Rise Data Labs; tipo di contratto di Menutech. La revisione del 12/11 su Menutech («Fully remote») non trova riscontro: la pagina dice «minimum 3 days per week in Milan».
+Da esplorare dopo: (1) customer education / academy in SaaS con clienti italiani (formazione degli utenti, non HR); (2) valutazione IA in italiano con contratto da dipendente o compenso dichiarato, non microtask; (3) [F] Tebi ha «Support Specialist - Italian speaking» ma in sede ad Amsterdam: cercare ruoli simili remoti presso altri vendor di software per ristorazione.
+Correzioni ai ricercatori: doppioni 0 · scadute 2 · [F] corretti 2 · formato 10 — scadute: rws--speech-ai-evaluation-specialist-italian.md (404), tebi--account-manager.md (non più nell'elenco ufficiale); [F] corretti: rise-data-labs (la pagina non dice «open»), tebi ([F] da aggregatore illeggibile → [?]); formato: tutte e 10 le schede con «Verificato attivo» senza frase della pagina e [F] senza citazione; condizioni personali tolte da 5 schede (menutech, rise-data-labs, rws ×2, tsmg) e sostituite con «[?] compatibilità contrattuale da verificare con Matteo»; tebi senza «## Analisi»; menutech e rise-data-labs avevano già un'analisi, riscritta da capo.
+Costo: 0 ricerche su 15, 12 pagine su 20; costo in token non letto: non disponibile nella sessione.
