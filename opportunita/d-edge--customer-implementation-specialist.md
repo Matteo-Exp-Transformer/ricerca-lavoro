@@ -6,7 +6,6 @@ Trovata: 2026-11-12, Claude Code (Sonnet 5.5)
 Verificato attivo: 2026-11-12 — la pagina primaria risponde HTTP 410 (rimossa)
 Contratto e durata: [?]
 Stato: scaduta
-Possibile doppione di: —
 Decisione Matteo: —
 
 ## Perché interessa

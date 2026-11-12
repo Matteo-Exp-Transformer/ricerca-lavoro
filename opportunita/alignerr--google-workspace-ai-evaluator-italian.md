@@ -6,7 +6,6 @@ Trovata: 2026-11-12, ChatGPT GPT-6
 Verificato attivo: 2026-11-12
 Contratto e durata: [F] freelance remoto part-time 2–4 ore/settimana; 15–35 USD/ora indicati
 Stato: nuova
-Possibile doppione di: —
 Decisione Matteo: —
 
 ## Perché interessa

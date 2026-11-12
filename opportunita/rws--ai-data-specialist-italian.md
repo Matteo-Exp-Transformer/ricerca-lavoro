@@ -5,8 +5,7 @@ Altre fonti: —
 Trovata: 2026-11-12, ChatGPT GPT-6
 Verificato attivo: 2026-11-12
 Contratto e durata: [F] freelance, progetto di lungo periodo, 10+ ore/settimana flessibili; 11 USD/ora dichiarati (tariffa varia secondo paese)
-Stato: da analizzare
-Possibile doppione di: —
+Stato: nuova
 Decisione Matteo: —
 
 ## Perché interessa

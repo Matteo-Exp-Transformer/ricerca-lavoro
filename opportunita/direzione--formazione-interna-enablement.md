@@ -6,7 +6,6 @@ Trovata: 2026-11-12, claude-code (Sonnet 5.5)
 Verificato attivo: 2026-11-12
 Contratto e durata: [?]
 Stato: nuova
-Possibile doppione di: —
 Decisione Matteo: —
 
 ## Perché interessa

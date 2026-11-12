@@ -6,7 +6,6 @@ Trovata: 2026-11-12, claude-code (Sonnet 5.5)
 Verificato attivo: 2026-11-12
 Contratto e durata: [F] stage (titolo dell'annuncio); durata e rimborso non indicati sulla pagina ufficiale [?]. Un aggregatore riporta 650 €/mese, non verificato [?].
 Stato: nuova
-Possibile doppione di: —
 Decisione Matteo: —
 
 ## Perché interessa

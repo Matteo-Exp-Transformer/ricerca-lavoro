@@ -6,7 +6,6 @@ Trovata: 2026-11-12, Claude Code (Sonnet 5.5)
 Verificato attivo: 2026-11-12 — chiuso: la pagina dice «This job is closed» (aggiornata 13/07/2025)
 Contratto e durata: full time; compenso indicato $1,1k–2k al mese [F, fonte stessa]
 Stato: scaduta
-Possibile doppione di: —
 Decisione Matteo: —
 
 ## Perché interessa

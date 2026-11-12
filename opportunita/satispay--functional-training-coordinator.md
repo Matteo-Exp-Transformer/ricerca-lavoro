@@ -6,7 +6,6 @@ Trovata: 2026-11-12, claude-code (Opus 5.5)
 Verificato attivo: 2026-11-12
 Contratto e durata: [F] full-time, ibrido, sede Milano (https://jobs.ashbyhq.com/satispay/05d4af99-6eaa-415a-adc6-13872250632d); tipo di contratto [?]
 Stato: nuova
-Possibile doppione di: —
 Decisione Matteo: —
 
 ## Perché interessa

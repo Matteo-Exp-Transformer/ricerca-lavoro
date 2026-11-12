@@ -6,7 +6,6 @@ Trovata: 2026-11-12, Claude Code (Sonnet 5.5)
 Verificato attivo: 2026-11-12 — chiuso: la pagina dice «job was removed» il 03/11/2026
 Contratto e durata: [?] non indicato
 Stato: scaduta
-Possibile doppione di: —
 Decisione Matteo: —
 
 ## Perché interessa

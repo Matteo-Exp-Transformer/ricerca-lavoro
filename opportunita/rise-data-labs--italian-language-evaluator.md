@@ -5,8 +5,7 @@ Altre fonti: —
 Trovata: 2026-11-12, ChatGPT GPT-6
 Verificato attivo: 2026-11-12 (riaperta; pulsante candidatura presente, stato «open» non dichiarato)
 Contratto e durata: [F] remoto, contratto breve; durata esatta e compenso non indicati
-Stato: analizzata
-Possibile doppione di: —
+Stato: nuova
 Decisione Matteo: —
 
 ## Perché interessa

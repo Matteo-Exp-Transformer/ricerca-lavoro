@@ -5,8 +5,7 @@ Altre fonti: —
 Trovata: 2026-11-12, ChatGPT GPT-6
 Verificato attivo: 2026-11-12
 Contratto e durata: [F] contratto full-time, remoto, alcuni mesi (possibile estensione)
-Stato: da analizzare
-Possibile doppione di: —
+Stato: nuova
 Decisione Matteo: —
 
 ## Perché interessa
