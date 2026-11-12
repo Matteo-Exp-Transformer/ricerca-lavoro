@@ -5,7 +5,7 @@ Altre fonti: —
 Trovata: 2026-11-12, Claude Code (Sonnet 5.5)
 Verificato attivo: 2026-11-12 (pagina aperta, posizione elencata come aperta, senza data di chiusura)
 Contratto e durata: [?] non indicato; RAL 30.000–40.000 € su 14 mensilità [F](https://assets.menutech.com/jobs/accountmanager-2026.html)
-Stato: da analizzare
+Stato: in analisi — claude-code (Sonnet 5.5) 2026-11-12 09:00
 Possibile doppione di: —
 Decisione Matteo: —
 
