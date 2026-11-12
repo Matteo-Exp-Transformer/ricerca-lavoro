@@ -7,3 +7,4 @@ Repo privata: sistema documentale per agenti (Claude, ChatGPT, Codex) che cercan
 - `QUADRO.md` — cosa è pronto da discutere con Matteo (lo scrive solo l'analista)
 - `opportunita/` — una scheda per opportunità (`azienda--ruolo.md`)
 - `sessioni/` — un file per sessione di agente, scritto solo da chi lo crea
+- `prompt/` — i messaggi con cui Matteo avvia gli agenti (`ricercatore.md`, `analista.md`, `avvio-e-primo-analista.md`)
