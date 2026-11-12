@@ -3,9 +3,9 @@ Tipo: annuncio
 Fonte primaria: https://jobs.ashbyhq.com/perk/c3bb2b26-c350-4653-9c09-59df2285f4ac
 Altre fonti: —
 Trovata: 2026-11-12, ChatGPT GPT-6
-Verificato attivo: 2026-11-12 «Apply for this Job» (pagina indicizzata, verifica diretta non disponibile)
-Contratto e durata: [F] full-time, hybrid, Barcelona; [?] durata non indicata
-Stato: nuova
+Verificato attivo: 2026-11-12 pagina in 404 e annuncio assente dall'elenco pubblico di Perk su Ashby (118 posizioni, nessuna «Onboarding Specialist» in italiano)
+Contratto e durata: [?] full-time, hybrid, Barcelona (riportati dal ricercatore senza citazione); durata non indicata
+Stato: scaduta
 Decisione Matteo: —
 
 ## Perché interessa
@@ -17,4 +17,6 @@ Decisione Matteo: —
 [?] compatibilità contrattuale da verificare con Matteo
 
 ## Analisi
-(solo l'analista)
+Analista: Claude Code desktop (Opus 5.5), 2026-11-12.
+Annuncio sparito: 404 sulla pagina e assente dall'elenco ufficiale. Chiedeva comunque presenza a Barcellona 3 giorni a settimana. Le posizioni in italiano rimaste a Perk sono di vendita (SDR, Account Executive) a Barcellona.
+Raccomandazione: chiusa, annuncio rimosso.

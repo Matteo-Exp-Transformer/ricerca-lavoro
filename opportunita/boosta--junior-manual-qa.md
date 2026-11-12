@@ -3,9 +3,9 @@ Tipo: annuncio
 Fonte primaria: https://job-boards.eu.greenhouse.io/boosta/jobs/5001676101
 Altre fonti: —
 Trovata: 2026-11-12, ChatGPT GPT-6
-Verificato attivo: 2026-11-12 «We are currently looking for a Junior Manual QA (Mobile Apps)» (pagina careers indicizzata; riapertura diretta non riuscita)
+Verificato attivo: 2026-11-12 l'indirizzo reindirizza all'elenco «Current openings at Boosta» (44 posizioni, nessuna di QA)
 Contratto e durata: [?] da verificare
-Stato: nuova
+Stato: scaduta
 Decisione Matteo: —
 
 ## Perché interessa
@@ -16,4 +16,6 @@ Decisione Matteo: —
 - [?] Compatibilità contrattuale da verificare con Matteo.
 
 ## Analisi
-(solo l'analista)
+Analista: Claude Code desktop (Opus 5.5), 2026-11-12.
+Annuncio sparito: l'URL rimanda all'elenco generale e né la pagina né l'elenco Greenhouse contengono più l'annuncio QA.
+Raccomandazione: chiusa, annuncio rimosso.

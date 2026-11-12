@@ -3,9 +3,9 @@ Tipo: annuncio
 Fonte primaria: https://jobs.ashbyhq.com/kognity/b9e6915d-63e0-4ce6-95a8-3a741abed75a
 Altre fonti: —
 Trovata: 2026-11-12, ChatGPT GPT-6
-Verificato attivo: 2026-11-12 «Apply for this Job» (pagina indicizzata e candidatura mostrata; pagina diretta richiede JavaScript)
-Contratto e durata: [F] temporary, ad hoc 10–20 ore al mese, $40–50/ora
-Stato: nuova
+Verificato attivo: 2026-11-12 pagina in 404 e annuncio assente dall'elenco pubblico di Kognity su Ashby (3 posizioni in Svezia)
+Contratto e durata: [?] temporary, ad hoc 10–20 ore al mese, $40–50/ora (riportati dal ricercatore senza citazione, non più verificabili)
+Stato: scaduta
 Decisione Matteo: —
 
 ## Perché interessa
@@ -17,4 +17,6 @@ Decisione Matteo: —
 [?] compatibilità contrattuale da verificare con Matteo
 
 ## Analisi
-(solo l'analista)
+Analista: Claude Code desktop (Opus 5.5), 2026-11-12.
+Annuncio sparito: 404 sulla pagina e assente dall'elenco ufficiale. Chiedeva comunque [F] «Experience teaching IBDP and IGCSE curriculum», che non è nel §5.
+Raccomandazione: chiusa, annuncio rimosso.
