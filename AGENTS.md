@@ -4,9 +4,38 @@ Scopo: i ricercatori trovano opportunità di lavoro per Matteo Cavallaro; l'anal
 Lingua: italiano, dai del tu a Matteo.
 
 ## Prima di tutto
-1. Se lavori su un clone locale: `git pull`.
+1. Se lavori su un clone locale: apri il tuo worktree (sezione sotto) e lavora solo lì.
 2. Leggi `CHI_SONO_Matteo.md`: §5 (cosa può dichiarare), §6 (cosa cerca), §7 (note pratiche).
 3. Lo stato è quello scritto nei file, non quello che ricordi o deduci.
+
+## Lavoro in parallelo: un worktree per sessione (solo clone locale)
+La cartella principale `ricerca-lavoro` resta su `main`, pulita, per Matteo: nessun agente ci lavora dentro.
+Ogni sessione locale (Claude Code, Codex…) lavora in un worktree suo, così più agenti non si sovrascrivono.
+Chi lavora direttamente su GitHub (es. ChatGPT) salta questa sezione.
+1. **Apri.** Nella cartella principale, con `<nome>` = `AAAA-MM-GG-HHMM-<ruolo>-<ambiente>` (lo stesso del file di sessione):
+   ```
+   git pull
+   git worktree list
+   git worktree add ../ricerca-lavoro-wt/<nome> -b wt/<nome> origin/main
+   ```
+   Poi spostati in `../ricerca-lavoro-wt/<nome>` e fai tutto da lì (file, commit, push).
+2. **Salva.** Dal worktree: `git pull --rebase origin main`, poi `git push origin HEAD:main`.
+   Si pubblica sempre su `main`: il branch `wt/<nome>` serve solo al worktree e non si pubblica.
+   Conflitto su un file non tuo: fermati e chiedi a Matteo.
+3. **Chiudi.** Dopo l'ultimo push (sessione `Stato: chiusa`), controlla nel worktree che `git status` sia pulito
+   e `git log origin/main..HEAD` vuoto. Poi, dalla cartella principale:
+   ```
+   git worktree remove ../ricerca-lavoro-wt/<nome>
+   git branch -d wt/<nome>
+   git worktree prune
+   git pull
+   ```
+   Resta solo la documentazione (sessione e schede) su `main`. Se un comando di pulizia ti viene negato,
+   scrivilo nella chiusura con i comandi da lanciare: li eseguirà Matteo.
+4. **Worktree obsoleti.** All'apertura guarda `git worktree list`. Un worktree di un'altra sessione si rimuove
+   (stessi comandi del punto 3) solo se ha `git status` pulito, `git log origin/main..HEAD` vuoto e la sua sessione
+   è `chiusa` oppure ferma da più di 24 ore. Se ha modifiche o commit non pubblicati non toccarlo: segnalalo a Matteo.
+   Rimuovere un worktree pulito e già pubblicato non è «cancellare file»: i file restano su `main`.
 
 ## Limiti fissi
 - Non inviare candidature, non contattare aziende, non registrarti su siti: proponi soltanto.
