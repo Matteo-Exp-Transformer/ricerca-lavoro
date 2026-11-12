@@ -5,7 +5,7 @@ Altre fonti: https://jobgether.com/offer/6a0f2538cc7b7267699151b5-training-speci
 Trovata: 2026-10-13, claude-code (Opus 5.5)
 Verificato attivo: 2026-10-13
 Contratto e durata: [F] full-time, remoto dall'Italia, contratto iniziale a tempo determinato di 1 anno (fonte primaria)
-Stato: da analizzare
+Stato: in analisi — claude-code Sonnet 5.5 2026-11-12 09:30
 Possibile doppione di: —
 Decisione Matteo: —
 
