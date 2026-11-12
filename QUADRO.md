@@ -1,8 +1,9 @@
-# Quadro — 2026-11-12 12:40, Claude Code desktop (Opus 5.5), commit di riferimento 85ccd5e
+# Quadro — 2026-11-12 13:27, Claude Code desktop (Opus 5.5), commit di riferimento 27c4cc7
 ## Vicine a te
 - opportunita/binatomy--automation-specialist.md — Binatomy, Customer Success Manager part-time (100% remoto) — tua scelta del 12/11; ricontrollato alle 12:35, ancora in elenco; resta da confermare la bozza in RESOCONTO.md.
 - opportunita/waiterr--customer-success-italy.md — Waiterr, Customer Success Italy (software per ristoranti, remote-friendly nell'UE, sede Milano) — proporre: onboarding dei locali italiani, chiedono proprio un passato in sala; full-time, annuncio di maggio: prima chiedere se è ancora aperto.
 - opportunita/jobtech--junior-tech-dev-automation-ai.md — Jobtech, Junior Tech Dev Automation AI (full remote, tempo indeterminato, 24–28k) — proporre: ruolo tecnico d'ingresso con affiancamento, IA e automazioni; chiede basi di shell Linux; scade il 4 dicembre.
+- opportunita/smartness--azienda.md — Smartness, Sales Operations & Enablement Specialist (software per hotel, remoto Italia) — proporre con riserva: migliorare e far adottare i processi tra vendite e customer success; lacune: CRM (HubSpot o Salesforce) e due anni di operations in un'azienda; full-time, ritmo dichiarato molto spinto.
 - opportunita/rendair--italian-speaking-customer-success-specialist.md — Rendair, Customer Success in italiano (IA per architetti, remoto Europa) — proporre: avvio, assistenza e formazione degli studi italiani su un prodotto di IA; chiede assistenza su un software, che hai solo sulla tua app.
 - opportunita/cloudtalk--product-education-manager-ai-enabled.md — CloudTalk, Product Education Manager (AI-Enabled), remoto UE — proporre: formare i clienti costruendo sistemi con l'IA e revisione umana; lacuna: chiedono esperienza in una SaaS.
 - opportunita/tsmg--ai-tester-italian.md — TSMG, AI tester con italiano (red-teaming di un agente) — proporre: remoto, formazione iniziale; full-time di qualche mese con contenuti tossici, compenso da chiarire.
@@ -23,7 +24,10 @@
 - opportunita/rise-data-labs--italian-language-evaluator.md — compenso e ore non indicati; incarico «ASAP» di aprile, forse già coperto.
 - opportunita/rws--ai-data-specialist-italian.md — 11 USD/ora, microtask ripetitivi; volume reale di incarichi sconosciuto.
 - opportunita/direzione--formazione-interna-enablement.md — capire se intendi formazione dei clienti di un software o formazione interna HR.
+- opportunita/opentable--account-manager-firenze.md — OpenTable, Account Manager a Firenze (12 mesi, 48k): ruolo sul campo con visite ai ristoranti e parte commerciale; da capire se ti va il lavoro sul campo e se hai patente e auto.
+- opportunita/letuelezioni--tutor-ai-flessibile-supporto-compiti.md — tutor che insegna a studiare con l'IA, remoto e orari liberi; forma freelance, ferma sulla tua decisione del 12/11; da capire in quali materie.
+- opportunita/too-good-to-go--azienda.md — nessun ruolo in Italia nel board ufficiale (51 posizioni al 12/11); ricontrollare per Partner Care o Customer Experience in italiano.
 ## Numeri
-schede per stato: proposta 10 · monitorare 12 · scartata 16 · scaduta 16 · nuova 0 (totale 54)
-sessioni ricercatore dall'ultimo quadro: 0
-correzioni fatte: doppioni 0 · scadute 0 · [F] corretti 0 · formato 0 (aggiornata la scheda Binatomy dopo la tua decisione)
+schede per stato: proposta 11 · monitorare 15 · scartata 23 · scaduta 20 · nuova 0 (totale 69)
+sessioni ricercatore dall'ultimo quadro: 9 (dalle 12:34 alle 13:25, tutte chiuse; 15 schede nuove)
+correzioni fatte: doppioni 0 · scadute 4 (Alpian, Jobgether UX Writer, TuoTempo, XTEL) · [F] corretti 3 · formato 2 — dettaglio nella sessione 2026-11-12-1319-analista-claude-code.md
