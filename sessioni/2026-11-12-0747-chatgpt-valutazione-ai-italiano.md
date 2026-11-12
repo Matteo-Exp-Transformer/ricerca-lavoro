@@ -1,11 +1,11 @@
 # Sessione ricercatore — valutazione AI e qualità linguistica italiana
 Agente: ChatGPT (GPT-6) · Inizio: 2026-11-12 07:47
-Stato: in corso
+Stato: chiusa
 Area e criteri: ruoli remoti di valutazione output AI, annotazione/QA linguistica italiana e test agenti; area distinta dalle sessioni hospitality/onboarding. Priorità remoto, compatibilità con capacità dimostrabili nel §5 e accessibilità senza titoli senior.
-Ricerche e fonti: da compilare
-Trovato: —
-Rivisto: —
-Non trovato: —
-Da esplorare dopo: —
-Letti: AGENTS.md — servito; CHI_SONO_Matteo.md §§5–7 — servito; sessioni/2026-11-12-0753-claude-code-onboarding-software-ristorazione.md — servito; sessioni/2026-11-12-0755-claude-code-implementation-software-ristorazione.md — servito; opportunita/ (elenco) — servito
-Costo: non letto: non disponibile
+Ricerche e fonti: 11 query web (5 iniziali su Italian AI evaluator, Outlier, Welocalize/Lever/Ashby; 4 mirate su TSMG, Productive Playhouse, RWS e Alignerr; 2 mirate su QC TSMG e AI Data Specialist RWS). Fonti primarie consultate: jobs.lever.co/tsmg/6517b738-8c37-4799-9607-1f85312959b5; jobs.lever.co/rws/ade36625-2d22-4842-a86c-c94748a70c3e; jobs.lever.co/rws/613a9553-e941-4476-80f1-4dbd00410113; experts.risedatalabs.com/jobs/italian-language-evaluator-37fgx; alignerr.com/jobs/b3c71b0a-5054-432a-9b91-f706e067eaf2; alignerr.com/it. Alcune pagine specifiche hanno restituito errore temporaneo alla riapertura; per Alignerr presenza confermata nel catalogo ufficiale.
+Trovato: opportunita/tsmg--ai-tester-italian.md; opportunita/rws--speech-ai-evaluation-specialist-italian.md; opportunita/rws--ai-data-specialist-italian.md; opportunita/rise-data-labs--italian-language-evaluator.md; opportunita/alignerr--google-workspace-ai-evaluator-italian.md
+Rivisto: nessuna scheda preesistente nell'area (opportunita/ conteneva 6 schede hospitality/CS non duplicate).
+Non trovato: ruolo stabile da dipendente in quest'area; le opportunità selezionate sono contratti e freelance. Ulteriori risultati non schedati: Welo Data Maps Personalization Relevance Rater (richiede storico Google Maps e località Milano); RWS Search Engine Evaluator (il modulo richiede domanda su possibilità di fatturazione); TSMG Quality Control Italian (annuncio nell'elenco ufficiale, non recuperato URL individuale).
+Da esplorare dopo: (1) valutazione AI con competenza verticale F&B e rubriche per scenari reali; (2) QA manuale per prodotti digitali con contratto dipendente remoto; (3) ruoli AI operations junior all'interno di team, non piattaforme di microtask.
+Letti: AGENTS.md — servito; CHI_SONO_Matteo.md §§5–7 — servito; sessioni/2026-11-12-0753-claude-code-onboarding-software-ristorazione.md — servito; sessioni/2026-11-12-0755-claude-code-implementation-software-ristorazione.md — servito; opportunita/ (elenco) — servito.
+Costo: 11 query web su budget massimo 25; costo monetario non letto: non disponibile.
