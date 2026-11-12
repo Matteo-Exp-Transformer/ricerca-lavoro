@@ -5,8 +5,8 @@ Altre fonti: —
 Trovata: 2026-11-12, Claude Code (Sonnet 5.5)
 Verificato attivo: 2026-11-12 «OPEN POSITION · REMOTE ITALY»
 Contratto e durata: [F] «€30k–€40k gross · 14 months» (RAL su 14 mensilità); tipo di contratto e durata non indicati [?]
-Stato: proposta
-Decisione Matteo: —
+Stato: monitorare
+Decisione Matteo: 2026-11-12 «No, monitorare» (risposta alla domanda: 3 giorni a settimana a Milano ti vanno bene?)
 
 ## Perché interessa
 - [F] SaaS per ristorazione, hospitality e sanità: «Menutech is a SaaS platform built for the restaurant, hospitality, and healthcare industries» (fonte primaria).
