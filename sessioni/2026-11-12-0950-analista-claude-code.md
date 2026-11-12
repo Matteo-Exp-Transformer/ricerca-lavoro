@@ -1,11 +1,11 @@
 # Sessione analista — quarto giro sulle schede `nuova`
 Agente: Claude Code desktop (Opus 5.5), worktree `ricerca-lavoro-wt/2026-11-12-0950-analista-claude-code` · Inizio: 2026-11-12 09:50
-Stato: in corso
-Area e criteri: tutte le schede `nuova` (8 all'avvio: automazioni e pre-sales), poi `QUADRO.md`.
-Ricerche e fonti: —
+Stato: chiusa
+Area e criteri: tutte le schede `nuova`, poi `QUADRO.md`. All'avvio erano 8 (automazioni e pre-sales); durante la sessione il ricercatore community operations ne ha pubblicate altre 3: 11 in tutto, tutte analizzate.
+Ricerche e fonti: 0 ricerche web. Pagine annuncio lette (11): binatomy.com/lavora-con-noi, LinkedIn Fiven e Sefthy (pagine pubbliche), jannattech.om, jobtech.it, macrocoderz.com, orienta.net, truvio.teamtailor.com (410), careers.sequester.app, founderstoday.org (letta nel browser integrato), Ashby Open Home Foundation (404) più l'elenco pubblico via API di Ashby.
 Trovato: — (l'analista non crea schede)
-Rivisto: —
-Non trovato: —
-Da esplorare dopo: —
-Correzioni ai ricercatori: —
-Costo: —
+Rivisto: proposta → jobtech--junior-tech-dev-automation-ai.md, binatomy--automation-specialist.md · monitorare → founders-today--community-moderator.md · scartata → jannat--workflow-automation-specialist.md (portfolio n8n/Make/Zapier, autorizzazione al lavoro in Oman), macrocoderz--ai-automation-specialist.md (1 anno di automazioni), fiven--junior-presales-sales-support-specialist.md (laurea, esperienza commerciale, ibrido Milano), orienta--junior-pre-sales-proposal-engineer.md (reti e telecomunicazioni, Roma), sefthy--junior-pre-sales-engineer.md (server e virtualizzazione, ibrido in provincia di Bari), sequester--community-creator-outreach-coordinator.md (1–3 anni di outreach, ruolo vicino alla vendita) · scaduta → truvio--presales-consultant.md («This position is no longer active»), open-home-foundation--community-associate.md (404, elenco ufficiale vuoto)
+Non trovato: compenso di Binatomy e tariffa di Founders Today; se Jobtech pesa la shell Linux in selezione.
+Da esplorare dopo: (1) [F] Binatomy ha anche «Customer Success Manager», «Part-time Remoto»: non schedato a parte perché c'è la scheda dell'azienda, citato nell'analisi; (2) ruoli d'ingresso tecnici con IA e affiancamento sul modello Jobtech (aziende italiane full remote); (3) imparare n8n o Make: tre annunci su quattro del filone automazioni lo chiedono.
+Correzioni ai ricercatori: doppioni 0 · scadute 2 · [F] corretti 0 · formato 8 — scadute: truvio (410), open-home-foundation (404; il ricercatore l'aveva già segnata «non verificabile», corretto). Formato: «Verificato attivo» aggiornato con la pagina letta in jobtech (le due versioni dell'annuncio non erano in conflitto: la pagina oggi dice «Scadenza offerta il 04 dic 2026»), macrocoderz, fiven, sefthy; parafrasi dentro [F] riscritte con le parole della fonte in jannat, founders-today, sequester, fiven; open-home-foundation: [F] contratto senza citazione → [?]; sefthy: un [I] citava la città di residenza di Matteo («distanza da Bologna»): dato personale tolto dalla scheda. Sessioni ChatGPT: ancora «xxxx» nel nome del file e «Inizio: ora ignota»; l'ora del commit c'è, usarla. Non modificate (file di altri agenti).
+Costo: 0 ricerche web, 11 pagine lette più 1 elenco via API; costo in token non letto: non disponibile nella sessione.

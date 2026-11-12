@@ -1,6 +1,8 @@
-# Quadro — 2026-11-12 09:46, Claude Code desktop (Opus 5.5), commit di riferimento 1079332
+# Quadro — 2026-11-12 09:54, Claude Code desktop (Opus 5.5), commit di riferimento 70cc3c7
 ## Vicine a te
 - opportunita/waiterr--customer-success-italy.md — Waiterr, Customer Success Italy (software per ristoranti, remote-friendly nell'UE, sede Milano) — proporre: onboarding dei locali italiani, chiedono proprio un passato in sala; full-time, annuncio di maggio: prima chiedere se è ancora aperto.
+- opportunita/jobtech--junior-tech-dev-automation-ai.md — Jobtech, Junior Tech Dev Automation AI (full remote, tempo indeterminato, 24–28k) — proporre: ruolo tecnico d'ingresso con affiancamento, IA e automazioni, «non ci interessa che tu sappia già fare tutto»; chiede basi di shell Linux; scade il 4 dicembre.
+- opportunita/binatomy--automation-specialist.md — Binatomy, Automation Specialist (100% remoto) — proporre: dicono che lo stack «si impara», ma n8n/Make non li hai ancora; nella stessa pagina c'è un Customer Success Manager part-time remoto, già alla tua portata.
 - opportunita/retano--software-implementation-consultant.md — Retano, Software Implementation Consultant (software retail, remoto dall'Italia) — proporre: installare e insegnare un software ai clienti, requisiti alla tua portata; incarico B2B 12+ mesi a carico pieno con orari flessibili, contratto e compenso da chiarire.
 - opportunita/rendair--italian-speaking-customer-success-specialist.md — Rendair, Customer Success in italiano (IA per architetti, remoto Europa) — proporre: avvio, assistenza e formazione degli studi italiani su un prodotto di IA; chiede assistenza su un software, che hai solo sulla tua app.
 - opportunita/conflux--ux-researcher.md — Conflux, UX Researcher (consulenza UX italiana, remoto) — proporre: il livello junior accetta «una forte motivazione a diventarlo»; ricerca sugli utenti con un team che insegna il metodo; formula freelance da chiarire.
@@ -16,11 +18,12 @@
 - opportunita/prostay--azienda.md — SaaS per hotel remote-first: oggi cerca Customer Success solo in spagnolo, francese e tedesco; ricontrollare per un ruolo in italiano (c'è la candidatura spontanea, la decidi tu).
 - opportunita/kerten-hospitality--hotel-development-coordinator-italy.md — remoto dall'Italia, chiede esperienza in ospitalità; ma è sviluppo commerciale di hotel (ricerca immobili, fattibilità finanziaria, viaggi): da capire se ti interessa.
 - opportunita/hyfe--business-operations-associate.md — preferenza per UK, Spagna o Portogallo; lavoro soprattutto amministrativo (contratti, fatture, HR): da capire se ti interessa e se assumono dall'Italia.
+- opportunita/founders-today--community-moderator.md — moderazione a ore di una community di founder, remoto e senza titolo richiesto; tariffa non pubblicata, presenza ogni giorno, niente IA: da capire se ti interessa.
 - opportunita/welo-data--ads-quality-rater-italian.md — 5–20 ore/settimana a circa 12 USD/ora, valutazione di annunci pubblicitari; forma contrattuale richiesta dall'annuncio da verificare con te.
 - opportunita/rise-data-labs--italian-language-evaluator.md — compenso e ore non indicati; pubblicato ad aprile per un incarico «ASAP», forse già coperto.
 - opportunita/rws--ai-data-specialist-italian.md — riserva: 11 USD/ora, microtask ripetitivi; volume reale di incarichi sconosciuto.
 - opportunita/direzione--formazione-interna-enablement.md — capire se intendi formazione dei clienti di un software (customer education) o formazione interna HR; CloudTalk e Rendair sono esempi del primo tipo.
 ## Numeri
-schede per stato: proposta 11 · monitorare 8 · scartata 10 · scaduta 14 · nuova 0 (totale 43)
-sessioni ricercatore dall'ultimo quadro: 5 (AI onboarding, product operations e user research, AI quality evaluation, hospitality tech chiuse; automazioni no-code in corso)
-correzioni fatte: doppioni 0 · scadute 6 · [F] corretti 1 · formato 11
+schede per stato: proposta 13 · monitorare 9 · scartata 16 · scaduta 16 · nuova 0 (totale 54)
+sessioni ricercatore dall'ultimo quadro: 3 (automazioni no-code e workflow, pre-sales e solution consulting, community operations)
+correzioni fatte: doppioni 0 · scadute 2 · [F] corretti 0 · formato 8
