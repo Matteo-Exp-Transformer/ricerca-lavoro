@@ -3,9 +3,9 @@ Tipo: annuncio
 Fonte primaria: https://job-boards.greenhouse.io/thefork/jobs/8349304
 Altre fonti: —
 Trovata: 2026-11-12, Claude Code (Sonnet 5.5)
-Verificato attivo: 2026-11-12 «Customer Care Specialist - Italian Market», aggiornato dalla fonte il 2026-11-06 (API Greenhouse pubblica di TheFork)
+Verificato attivo: 2026-11-12 «Customer Care Specialist - Italian Market», aggiornato il 2026-11-06 (API Greenhouse di TheFork)
 Contratto e durata: [F] «A permanent contract» · [?] compatibilità contrattuale da verificare con Matteo
-Stato: nuova
+Stato: scartata — richiede di vivere a Barcellona; assistenza a telefono, email e chat
 Decisione Matteo: —
 
 ## Perché interessa
@@ -15,8 +15,8 @@ Decisione Matteo: —
 - [F] Richiede «Experienced in a customer support environment» e «Knowledge in CRM tools»: lacuna probabile; Matteo ha esperienza di clienti difficili in sala (§5), ma niente CRM dichiarabile.
 
 ## Analisi
-(solo l'analista)
-Pesi del §6: —
-Requisito → —
+Pesi del §6: remoto no ([F] «Based in Barcelona», «2 days home office per week»); ristorazione e persone sì; IA assente; part-time no.
+Requisito → [F] «Knowledge in CRM tools» e «Experienced in a customer support environment»: lacune. [F] «C2 level of Italian»: soddisfatto.
+Potenziale · limiti: [I] TheFork resta un'azienda da seguire per ruoli in Italia (account o onboarding dei ristoranti).
 Domande per Matteo: —
-Raccomandazione: —
+Raccomandazione: scartata per la residenza a Barcellona.

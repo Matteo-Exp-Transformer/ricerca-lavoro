@@ -3,9 +3,9 @@ Tipo: annuncio
 Fonte primaria: https://jobs.workable.com/jobs/3a95a1e2-5032-49d0-8f95-24644bc69489.md
 Altre fonti: https://jobgether.com/offer/6941c17f5737f7f2f2fe52c2-italian-speaking-hospitality-service-consultant--remote-in-greece
 Trovata: 2026-11-12, Claude Code, Sonnet 5.5
-Verificato attivo: 2026-11-12 pagina con pulsante «Apply for this job» (data di pubblicazione non presente)
+Verificato attivo: 2026-11-12 «Apply for this job» su jobs.workable.com (data di pubblicazione assente)
 Contratto e durata: Full-time; durata [?]
-Stato: nuova
+Stato: scartata — assistenza clienti full-time con trasferimento in Grecia, tramite intermediario
 Decisione Matteo: —
 
 ## Perché interessa
@@ -15,3 +15,8 @@ Decisione Matteo: —
 - [?] Azienda incoerente nella pagina (Recruitment By Ierotheos / Patrique Mercier Recruitment): intermediario, datore finale ignoto. [?] Compatibilità contrattuale da verificare con Matteo.
 
 ## Analisi
+Pesi del §6: [F] titolo «Remote in Greece» ma tra i benefit «Fully Paid Relocation Package ( flight, transfer and hotel )»: [I] è un trasferimento, non remoto dall'Italia. [F] «via phone, email, and in-person interactions»: assistenza tipo contact center (§6: di solito non fa per te). Nessuna IA, nessun part-time.
+Requisito → [F] «Proficient in using CRM systems and Microsoft Office applications»: CRM lacuna. Italiano e inglese: soddisfatto con la riserva «non certificato».
+Potenziale · limiti: [F] la descrizione è di «Patrique Mercier Recruitment FR» pubblicata da «Recruitment By Ierotheos»: datore finale ignoto.
+Domande per Matteo: —
+Raccomandazione: scartata.

@@ -3,9 +3,9 @@ Tipo: annuncio
 Fonte primaria: https://www.jobleads.com/it/job/junior-product-owner--italy--e738b9787b62872a9b30e057c0e5521a6 (aggregatore; apertura diretta bloccata: HTTP 403)
 Altre fonti: —
 Trovata: 2026-11-12, Claude Code Sonnet 5.5
-Verificato attivo: non verificabile (pagina bloccata 403; sito carriere Alpian non trovato)
+Verificato attivo: 2026-11-12 non più attivo: la fonte JobLeads risponde 410; il board ufficiale Alpian (alpian.intranet.digital) elenca «7 Vacancies Found», nessuna di Product Owner
 Contratto e durata: [F] dal riassunto di ricerca (non letto in pagina): «Junior Product Owner in apprenticeship», entità «Alpian Technologies SRL (Full remote, Italy based contract)». [?] durata e requisiti d'età/titolo per l'apprendistato
-Stato: nuova
+Stato: scaduta
 Decisione Matteo: —
 
 ## Perché interessa
@@ -15,9 +15,6 @@ Decisione Matteo: —
 - [?] Compatibilità contrattuale da verificare con Matteo.
 
 ## Analisi
-(solo l'analista)
-Pesi del §6: —
-Requisito → —
-Potenziale · limiti · cosa servirebbe imparare: —
-Domande per Matteo: —
-Raccomandazione: —
+Annuncio sparito: JobLeads risponde 410 e il board ufficiale di Alpian, letto il 12/11, non ha più il ruolo.
+[F] Il board elenca un «QA Engineer - Permanent (100%)» «Full Remote» (https://alpian.intranet.digital/external/en/jobs), ma senza descrizione letta: [?] livello e requisiti.
+Raccomandazione: scaduta; il QA Engineer è uno spunto per un ricercatore (area QA), non una scheda.
